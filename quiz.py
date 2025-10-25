@@ -45,7 +45,7 @@ if ans3=="b" or ans3=="B":
 if ans4=="c" or ans4=="c":
     Total+=1
 if ans5=="b" or ans5=="B":
-    Total+=1lo
+    Total+=1
 if ans6=="a"or ans6=="A":
     Total+=1
 if ans7=="a" or ans7=="A":
